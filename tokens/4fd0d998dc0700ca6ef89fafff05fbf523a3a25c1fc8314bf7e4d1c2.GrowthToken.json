@@ -5,5 +5,5 @@
   "website": "http://growth.lat",
   "description": "First Brazilian Community Token on Cardano Blockchain.",
   "totalSupply": 21000000,
-  "amounts": [1, 5, 10, 20, 50, 100, 300, 500, 1000, 2000]
+  "amounts": [1, 5, 10, 20, 50, 100, 300, 500, 1000, 2000, 10000]
 }
